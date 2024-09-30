@@ -103,7 +103,7 @@ exit(EXIT_SUCCESS);
 
 
 ## OUTPUT
-
+![368436701-5f3b0f8d-afaf-4e88-97ae-fa9eccaec929](https://github.com/user-attachments/assets/337655e9-7d69-4488-af12-3f5d8653aa61)
 
 # RESULT:
 The program is executed successfully.
